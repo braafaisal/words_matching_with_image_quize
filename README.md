@@ -3,7 +3,9 @@
 A new Flutter project.
 
 
-
+Connect the word with the correct picture
+By clicking on the correct image
+Multiple-choice
 
 
 ![1000](https://github.com/braafaisal/words_matching_with_image_quize/assets/169014356/606f1cc5-0940-4163-9cf0-d7610fb2b152)
